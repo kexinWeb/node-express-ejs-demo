@@ -113,6 +113,7 @@ console.log("The server is running on 8080");
 
     node app.js
 打开浏览器键入：localhost:8080 和 localhost:8080/article
+
 ![此处输入图片的描述][1]
 
 ##最后
@@ -122,7 +123,9 @@ console.log("The server is running on 8080");
 
 参考资料：
 【1】http://www.cnblogs.com/rubylouvre/p/3421805.html
+
 【2】http://github.com/visionmedia/ejs
+
 【3】https://segmentfault.com/a/1190000004286562
 
 
